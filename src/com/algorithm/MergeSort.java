@@ -1,5 +1,4 @@
 package com.algorithm;
-
 public class MergeSort {
 	
 	public int[] mergeSort(int [] array, int start, int end) {

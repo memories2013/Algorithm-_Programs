@@ -1,5 +1,4 @@
 package com.algorithm;
-
 public class BubbleSort {
 	public int[] bubbleSort(int[] array) {
 		for (int i = 0; i < array.length; i++) {
